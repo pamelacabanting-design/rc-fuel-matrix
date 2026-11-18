@@ -6615,7 +6615,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Pandacan HubOP Sampaloc Manila Hub,Pandacan Hub,OP Sampaloc Manila Hub,MM,NCR,MM,,5,1,1,1,1,3,1,,5,,,,,,,,1,1,1,1,3,1
 1,Santo Tomas HubQuezon-Dolores Hub,Santo Tomas Hub,Quezon-Dolores Hub,LUZ,SOL,FAR SOL,,29,4,4,4,7,15,5,,29,,,,,,,,4,4,4,7,15,5
 1,Paco HubOP Santa Mesa Manila Hub,Paco Hub,OP Santa Mesa Manila Hub,MM,NCR,MM,,3,0,0,0,1,2,1,,3,,,,,,,,0,0,0,1,2,1
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Pio Del Pilar HubArnaiz Hub,Pio Del Pilar Hub,Arnaiz Hub,MM,NCR,MM,,2,0,0,0,1,1,0,,2,,,,,,,,0,0,0,1,1,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
