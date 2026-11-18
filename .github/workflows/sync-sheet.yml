@@ -1,1 +1,113 @@
+name: Sync Google Sheet
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download sheet using Google service account
+        env:
+          GOOGLE_SA_KEY: ${{ secrets.GOOGLE_SA_KEY }}
+          SPREADSHEET_ID: 1HeSn378wgmsfql2xM4RcmX2GYkwl9VWP43BxdBqKU_c
+          SHEET_NAME: drylease_matrix
+        run: |
+          pip install --quiet google-auth requests
+          python - <<'PY'
+          import os, sys, json, csv, urllib.parse
+          import requests
+          from google.oauth2 import service_account
+          from google.auth.transport.requests import Request
+
+          key = os.environ.get("GOOGLE_SA_KEY", "").strip()
+          if not key:
+              sys.exit("Walang GOOGLE_SA_KEY secret. Idagdag sa Settings > Secrets and variables > Actions.")
+          creds = service_account.Credentials.from_service_account_info(
+              json.loads(key),
+              scopes=["https://www.googleapis.com/auth/spreadsheets.readonly"],
+          )
+          creds.refresh(Request())
+
+          sid = os.environ["SPREADSHEET_ID"]
+          rng = urllib.parse.quote(os.environ["SHEET_NAME"] + "!A:AD", safe="")
+          url = f"https://sheets.googleapis.com/v4/spreadsheets/{sid}/values/{rng}"
+          r = requests.get(
+              url,
+              headers={"Authorization": "Bearer " + creds.token},
+              params={"valueRenderOption": "UNFORMATTED_VALUE", "majorDimension": "ROWS"},
+              timeout=120,
+          )
+          if r.status_code != 200:
+              sys.exit(f"Google Sheets API error {r.status_code}: {r.text[:500]}")
+          rows = r.json().get("values", [])
+          if len(rows) < 100:
+              sys.exit(f"Kaunti lang ang nabasang row ({len(rows)}). Tingnan ang pangalan ng tab.")
+
+          with open("sheet-data.csv", "w", newline="", encoding="utf-8") as f:
+              w = csv.writer(f)
+              for row in rows:
+                  row = list(row) + [""] * (30 - len(row))
+                  w.writerow(row[:30])
+          print("Saved", len(rows), "rows")
+          PY
+
+      - name: Download station coordinates (mm_clustering)
+        env:
+          GOOGLE_SA_KEY: ${{ secrets.GOOGLE_SA_KEY }}
+          SPREADSHEET_ID: 1HeSn378wgmsfql2xM4RcmX2GYkwl9VWP43BxdBqKU_c
+          SHEET_NAME: mm_clustering
+        run: |
+          pip install --quiet google-auth requests
+          python - <<'PY'
+          import os, sys, json, csv, urllib.parse
+          import requests
+          from google.oauth2 import service_account
+          from google.auth.transport.requests import Request
+
+          key = os.environ.get("GOOGLE_SA_KEY", "").strip()
+          if not key:
+              sys.exit("Walang GOOGLE_SA_KEY secret.")
+          creds = service_account.Credentials.from_service_account_info(
+              json.loads(key),
+              scopes=["https://www.googleapis.com/auth/spreadsheets.readonly"],
+          )
+          creds.refresh(Request())
+
+          sid = os.environ["SPREADSHEET_ID"]
+          rng = urllib.parse.quote(os.environ["SHEET_NAME"] + "!A:K", safe="")
+          url = f"https://sheets.googleapis.com/v4/spreadsheets/{sid}/values/{rng}"
+          r = requests.get(
+              url,
+              headers={"Authorization": "Bearer " + creds.token},
+              params={"valueRenderOption": "UNFORMATTED_VALUE", "majorDimension": "ROWS"},
+              timeout=120,
+          )
+          if r.status_code != 200:
+              sys.exit(f"Google Sheets API error {r.status_code}: {r.text[:500]}")
+          rows = r.json().get("values", [])
+          if len(rows) < 10:
+              sys.exit(f"Kaunti lang ang nabasang row ({len(rows)}). Tingnan ang pangalan ng tab.")
+
+          with open("coords.csv", "w", newline="", encoding="utf-8") as f:
+              w = csv.writer(f)
+              for row in rows:
+                  row = list(row) + [""] * (11 - len(row))
+                  w.writerow(row[:11])
+          print("Saved", len(rows), "coordinate rows")
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add sheet-data.csv coords.csv
+          git diff --cached --quiet || (git commit -m "Update sheet data" && git push)
 
