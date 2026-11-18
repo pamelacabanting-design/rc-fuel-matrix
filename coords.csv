@@ -1684,6 +1684,7 @@ PHN3DS,NOL,PHN3DS,WH Node,LUZ,"Richtown 1 Avenue, Richtown 1 Subdivision, Sindal
 PHN4DS,NOL,PHN4DS,WH Node,GMA,"Hobart Warehouse Compound Unit 19,PH 2 Tiwala Borol 1st Balagtas, Bulacan,Balagtas,Bulacan,North Luzon,PH",6639,6639,,14.825453,120.898123
 PHN5DS,NOL,PHN5DS,WH Node,GMA,"Purok 2 , Hacienda Rosenda Longos Kapitangan Road Longos Calumpit Bulacan,Calumpit,Bulacan,North Luzon,PH",6652,6652,,14.879473,120.782419
 PHN6DS,NCR,PHN6DS,WH Node,MM,"8333 Dr Arcadio Santos Ave, Parañaque, 1715 Metro Manila,Paranaque City,Metro Manila,Metro Manila,PH",6691,6691,,14.462819,121.02407
+PHNOL,,PHNOL,WH Node,,"NDC3, Iba, Meycauayan, 3020 Bulacan,Meycauayan City,Bulacan,North Luzon,PH",6746,6746,,14.757401,120.98603
 PHO,SOL,PHO,WH Node,GMA,"Bollore Logistics - Cabuyao, LISP Diezmo, Cabuyao, Laguna,Cabuyao,Laguna,South Luzon,PH",1970,1970,,14.863832,120.888346
 PHO Cabuyao DC,SOL,CBY2,WH Node,GMA,"Bollore Logistics - Cabuyao, LISP Diezmo, Cabuyao, Laguna,Cabuyao,Laguna,South Luzon,PH",955,955,,14.344272,121.064297
 PHO Warehouse,SOL,PHO WH,WH Node,GMA,"Bollore Logistics Cabuyao LISP 1, Cabuyao, Laguna",1652,1652,,14.235593,121.110762
