@@ -6619,10 +6619,10 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,IM-WarehouseUpper GMA Hub,IM-Warehouse,Upper GMA Hub,GMA,SOL,GMA SOL,,23,3,3,3,6,12,4,,23,,,,,,,,3,3,3,6,12,4
 1,Upper GMA HubSOC 5 Parking,Upper GMA Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,23,3,3,3,6,12,4,,23,2,2,2,2,3,2,,5,5,5,8,15,6
 1,IM-WarehouseViente Reales Hub,IM-Warehouse,Viente Reales Hub,MM,NCR,MM,,64,8,8,9,16,32,12,,64,,,,,,,,8,8,9,16,32,12
-1,SOC 8 ParkingAlfonso Hub,SOC 8 Parking,Alfonso Hub,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,2,2,2,2,3,2,,8,8,9,14,27,11
+1,SOC 8 ParkingAlfonso Hub,SOC 8 Parking,Alfonso Hub,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,2,2,2,2,3,2,,8,8,9,15,29,11
 1,SOC 9 ParkingMalasiqui Hub,SOC 9 Parking,Malasiqui Hub,LUZ,NOL,FAR NOL,,168,21,21,24,42,84,31,,168,2,2,2,2,3,2,,23,23,26,44,87,33
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,MFM North CaloocanIM-Warehouse,MFM North Caloocan,IM-Warehouse,GMA,SOL,GMA SOL,,72,9,9,10,18,36,13,,72,,,,,,,,9,9,10,18,36,13
+1,Cupang HubPasay Hub,Cupang Hub,Pasay Hub,MM,NCR,MM,,12,2,2,2,3,6,2,,12,,,,,,,,2,2,2,3,6,2
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
