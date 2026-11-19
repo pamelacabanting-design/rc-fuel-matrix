@@ -6623,9 +6623,9 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 9 ParkingMalasiqui Hub,SOC 9 Parking,Malasiqui Hub,LUZ,NOL,FAR NOL,,168,21,21,24,42,84,31,,168,2,2,2,2,3,2,,23,23,26,44,87,33
 1,MFM North CaloocanIM-Warehouse,MFM North Caloocan,IM-Warehouse,GMA,SOL,GMA SOL,,72,9,9,10,18,36,13,,72,,,,,,,,9,9,10,18,36,13
 1,Cupang HubPasay Hub,Cupang Hub,Pasay Hub,MM,NCR,MM,,12,2,2,2,3,6,2,,12,,,,,,,,2,2,2,3,6,2
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Bucal HubSOC 8,Bucal Hub,SOC 8,GMA,SOL,GMA SOL,,11,1,1,2,3,6,2,,11,2,2,2,2,3,2,,3,3,4,5,9,4
+1,OP Makiliing Calamba HubSOC 8,OP Makiliing Calamba Hub,SOC 8,GMA,SOL,GMA SOL,,11,1,1,2,3,6,2,,11,2,2,2,2,3,2,,3,3,4,5,9,4
+1,SOC 8 ParkingOP Makiliing Calamba Hub,SOC 8 Parking,OP Makiliing Calamba Hub,GMA,SOL,GMA SOL,,12,2,2,2,3,6,2,,12,2,2,2,2,3,2,,4,4,4,5,9,4
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
