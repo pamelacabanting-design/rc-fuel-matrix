@@ -6619,7 +6619,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,IM-WarehouseUpper GMA Hub,IM-Warehouse,Upper GMA Hub,GMA,SOL,GMA SOL,,23,3,3,3,6,12,4,,23,,,,,,,,3,3,3,6,12,4
 1,Upper GMA HubSOC 5 Parking,Upper GMA Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,23,3,3,3,6,12,4,,23,2,2,2,2,3,2,,5,5,5,8,15,6
 1,IM-WarehouseViente Reales Hub,IM-Warehouse,Viente Reales Hub,MM,NCR,MM,,64,8,8,9,16,32,12,,64,,,,,,,,8,8,9,16,32,12
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SOC 8 ParkingAlfonso Hub,SOC 8 Parking,Alfonso Hub,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,2,2,2,2,3,2,,8,8,9,14,27,11
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
