@@ -6631,7 +6631,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Balubad HubMFM Laguna,Balubad Hub,MFM Laguna,GMA,SOL,GMA SOL,,127,16,16,18,32,64,23,,127,,,,,,,,16,16,18,32,64,23
 1,OP Bauan Batangas HubBauan Hub,OP Bauan Batangas Hub,Bauan Hub,LUZ,SOL,FAR SOL,,9,1,1,1,2,5,2,,9,,,,,,,,1,1,1,2,5,2
 1,OP Rosario Batangas HubPadre Garcia Hub,OP Rosario Batangas Hub,Padre Garcia Hub,LUZ,SOL,FAR SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Tarlac HubSOC 9 Parking,Tarlac Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,101,13,13,14,25,51,18,,101,2,2,2,2,3,2,,15,15,16,27,54,20
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
