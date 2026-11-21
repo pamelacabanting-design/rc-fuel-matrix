@@ -6628,7 +6628,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 8 ParkingOP Makiliing Calamba Hub,SOC 8 Parking,OP Makiliing Calamba Hub,GMA,SOL,GMA SOL,,12,2,2,2,3,6,2,,12,2,2,2,2,3,2,,4,4,4,5,9,4
 1,OP Taysan Batangas HubSOC 8 Parking,OP Taysan Batangas Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,62,8,8,9,16,31,11,,62,2,2,2,2,3,2,,10,10,11,18,34,13
 1,SOC 8 ParkingOP Taysan Batangas Hub,SOC 8 Parking,OP Taysan Batangas Hub,LUZ,SOL,FAR SOL,,62,8,8,9,16,31,11,,62,2,2,2,2,3,2,,10,10,11,18,34,13
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Balubad HubMFM Laguna,Balubad Hub,MFM Laguna,GMA,SOL,GMA SOL,,127,16,16,18,32,64,23,,127,,,,,,,,16,16,18,32,64,23
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
