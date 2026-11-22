@@ -1636,7 +1636,7 @@ PHD,SOL,PHD,WH Node,GMA,"Magsaysay Road, San Antonio, San Pedro, Laguna 4023,S
 PHD San Pedro DC,SOL,PHD DC,WH Node,GMA,"Magsaysay Road, San Pedro, Laguna, Philippines (In front of Alaska)",2121,2121,,14.367917,121.045222
 PHDVO1,MIN,PHDVO1,WH Node,MIN,"KM 18, APC Compound, Eliong Road, Tibungco, Davao City,Davao City,Davao Del Sur,Mindanao,PH",5636,5636,,7.194527,125.637988
 PHDVO1-MTO,MIN,PHDVO1-MTO,SC Node,MIN,"Unit E, Tibungco Km 18 Crossing Eliong Road, Bunawan, Davao City, 8000 Davao del Sur",6358,6358,,7.191615,125.637829
-PHDVO2,,PHDVO2,WH Node,,"Lot 1513-A Purok 9. Bunawan District 8000, Davao City, Davao del Sur,Davao City,Davao Del Sur,Mindanao,PH",6654,6654,,7.253469,125.649121
+PHDVO2,MIN,PHDVO2,WH Node,MIN,"Lot 1513-A Purok 9. Bunawan District 8000, Davao City, Davao del Sur,Davao City,Davao Del Sur,Mindanao,PH",6654,6654,,7.253469,125.649121
 PHE,SOL,PHE,WH Node,GMA,"B1 L2 Batino Rd, Calamba, 4027 Laguna,Calamba City,Laguna,South Luzon,PH",3203,3203,,14.205444,121.132583
 PHF,SOL,PHF,WH Node,GMA,PH,1973,1973,,0,0
 PHG,NOL,PHG,WH Node,GMA,"Phase 2, Block 5, Lot 6, 8, & 10, Megaland Industrial Park, Camachilihan, Bustos, Bulacan, Philippines,Bustos,Bulacan,North Luzon,PH",5376,5376,,14.913859,120.919642
