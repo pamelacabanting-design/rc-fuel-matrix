@@ -6639,7 +6639,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Mamatid-Cabuyao HubSOC 5 Parking,Mamatid-Cabuyao Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
 1,SOC 6Villasis Hub,SOC 6,Villasis Hub,LUZ,NOL,FAR NOL,,166,21,21,24,42,83,30,,166,2,2,2,2,3,2,,23,23,26,44,86,32
 1,Villasis HubSOC 6 Parking,Villasis Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,167,21,21,24,42,84,30,,167,2,2,2,2,3,2,,23,23,26,44,87,32
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,89,11,11,13,22,45,16,,89,,,,,,,,11,11,13,22,45,16
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
