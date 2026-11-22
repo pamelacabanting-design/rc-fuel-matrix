@@ -6634,7 +6634,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Tarlac HubSOC 9 Parking,Tarlac Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,101,13,13,14,25,51,18,,101,2,2,2,2,3,2,,15,15,16,27,54,20
 1,Arnaiz HubArnaiz Dark Store,Arnaiz Hub,Arnaiz Dark Store,MM,NCR,MM,,0,0,0,0,0,0,0,,0,,,,,,,,0,0,0,0,0,0
 1,Arnaiz Dark StoreSOC 11,Arnaiz Dark Store,SOC 11,GMA,SOL,GMA SOL,,44,6,6,6,11,22,8,,44,2,2,2,2,3,2,,8,8,8,13,25,10
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,IM-WarehouseCanlubang Hub,IM-Warehouse,Canlubang Hub,GMA,SOL,GMA SOL,,1,0,0,0,0,1,0,,1,,,,,,,,0,0,0,0,1,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
