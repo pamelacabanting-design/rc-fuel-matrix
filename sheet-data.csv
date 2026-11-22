@@ -6636,9 +6636,9 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Arnaiz Dark StoreSOC 11,Arnaiz Dark Store,SOC 11,GMA,SOL,GMA SOL,,44,6,6,6,11,22,8,,44,2,2,2,2,3,2,,8,8,8,13,25,10
 1,IM-WarehouseCanlubang Hub,IM-Warehouse,Canlubang Hub,GMA,SOL,GMA SOL,,1,0,0,0,0,1,0,,1,,,,,,,,0,0,0,0,1,0
 1,IM-WarehouseMamatid-Cabuyao Hub,IM-Warehouse,Mamatid-Cabuyao Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
-1,Mamatid-CabuyaoHubSOC 5 Parking,Mamatid-Cabuyao,HubSOC 5 Parking,,,,,#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),,#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),2,2,2,2,3,2,,#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.)
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Mamatid-Cabuyao HubSOC 5 Parking,Mamatid-Cabuyao Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,2,2,2,2,3,2,,3,3,3,3,5,3
+1,SOC 6Villasis Hub,SOC 6,Villasis Hub,LUZ,NOL,FAR NOL,,166,21,21,24,42,83,30,,166,2,2,2,2,3,2,,23,23,26,44,86,32
+1,Villasis HubSOC 6 Parking,Villasis Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,167,21,21,24,42,84,30,,167,2,2,2,2,3,2,,23,23,26,44,87,32
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
