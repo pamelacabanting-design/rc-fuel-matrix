@@ -6635,8 +6635,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Arnaiz HubArnaiz Dark Store,Arnaiz Hub,Arnaiz Dark Store,MM,NCR,MM,,0,0,0,0,0,0,0,,0,,,,,,,,0,0,0,0,0,0
 1,Arnaiz Dark StoreSOC 11,Arnaiz Dark Store,SOC 11,GMA,SOL,GMA SOL,,44,6,6,6,11,22,8,,44,2,2,2,2,3,2,,8,8,8,13,25,10
 1,IM-WarehouseCanlubang Hub,IM-Warehouse,Canlubang Hub,GMA,SOL,GMA SOL,,1,0,0,0,0,1,0,,1,,,,,,,,0,0,0,0,1,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,IM-WarehouseMamatid-Cabuyao Hub,IM-Warehouse,Mamatid-Cabuyao Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,Mamatid-CabuyaoHubSOC 5 Parking,Mamatid-Cabuyao,HubSOC 5 Parking,,,,,#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),,#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),2,2,2,2,3,2,,#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.),#N/A (Did not find value 'Mamatid-CabuyaoHubSOC 5 Parking' in XLOOKUP evaluation.)
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
