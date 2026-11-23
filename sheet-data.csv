@@ -6645,8 +6645,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,San Juan HubBagong Barrio Hub,San Juan Hub,Bagong Barrio Hub,MM,NCR,MM,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
 1,Bagong Barrio HubSOC 5 Parking,Bagong Barrio Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
 1,San Juan HubCabuyao Hub,San Juan Hub,Cabuyao Hub,GMA,SOL,GMA SOL,,49,6,6,7,12,25,9,,49,,,,,,,,6,6,7,12,25,9
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SOC 6Kalinga Hub,SOC 6,Kalinga Hub,LUZ,NOL,FAR NOL,,443,55,55,63,111,222,81,,443,2,2,2,2,3,2,,57,57,65,113,225,83
+1,Kalinga HubSOC 6 Parking,Kalinga Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,444,56,56,63,111,222,81,,444,2,2,2,2,3,2,,58,58,65,113,225,83
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
