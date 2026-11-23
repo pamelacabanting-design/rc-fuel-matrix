@@ -6642,9 +6642,9 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Arnaiz Dark StoreSOC 5 Parking,Arnaiz Dark Store,SOC 5 Parking,GMA,SOL,GMA SOL,,43,5,5,6,11,22,8,,43,2,2,2,2,3,2,,7,7,8,13,25,10
 1,IM-WarehouseHighway 2000 Hub,IM-Warehouse,Highway 2000 Hub,GMA,SOL,GMA SOL,,49,6,6,7,12,25,9,,49,,,,,,,,6,6,7,12,25,9
 1,Highway 2000 HubSOC 8 Parking,Highway 2000 Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,47,6,6,7,12,24,9,,47,2,2,2,2,3,2,,8,8,9,14,27,11
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,San Juan HubBagong Barrio Hub,San Juan Hub,Bagong Barrio Hub,MM,NCR,MM,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
+1,Bagong Barrio HubSOC 5 Parking,Bagong Barrio Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
+1,San Juan HubCabuyao Hub,San Juan Hub,Cabuyao Hub,GMA,SOL,GMA SOL,,49,6,6,7,12,25,9,,49,,,,,,,,6,6,7,12,25,9
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
