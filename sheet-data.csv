@@ -6827,8 +6827,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,San Agustin HubRomblon Hub,San Agustin Hub,Romblon Hub,LUZ,SOL,FAR SOL,,17,2,2,2,4,9,3,,17,,,,,,,,2,2,2,4,9,3
 1,Romblon HubMFM Laguna,Romblon Hub,MFM Laguna,GMA,SOL,GMA SOL,,277,35,35,40,69,139,50,,277,,,,,,,,35,35,40,69,139,50
 1,Gasan HubMFM Laguna,Gasan Hub,MFM Laguna,GMA,SOL,GMA SOL,,174,22,22,25,44,87,32,,174,,,,,,,,22,22,25,44,87,32
-,,,,,,,,670,84,84,96,168,335,122,,670,,,,,,,,84,84,96,168,335,122
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,San Rafael HubBaliwag-San Roque Hub,San Rafael Hub,Baliwag-San Roque Hub,GMA,NOL,GMA NOL,,670,84,84,96,168,335,122,,670,,,,,,,,84,84,96,168,335,122
+1,Baliwag-San Roque HubS0C 6,Baliwag-San Roque Hub,S0C 6,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
