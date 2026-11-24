@@ -6664,7 +6664,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Baliwag-San Roque HubSOC 6 Parking,Baliwag-San Roque Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,38,5,5,5,10,19,7,,38,2,2,2,2,3,2,,7,7,7,12,22,9
 1,SOC 6Rosario-La Union Hub,SOC 6,Rosario-La Union Hub,LUZ,NOL,FAR NOL,,201,25,25,29,50,101,37,,201,2,2,2,2,3,2,,27,27,31,52,104,39
 1,Rosario-La Union HubSOC 6 Parking,Rosario-La Union Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,201,25,25,29,50,101,37,,201,2,2,2,2,3,2,,27,27,31,52,104,39
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,General Trias HubIM-Warehouse,General Trias Hub,IM-Warehouse,GMA,SOL,GMA SOL,,41,5,5,6,10,21,7,,41,,,,,,,,5,5,6,10,21,7
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
