@@ -6658,8 +6658,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,San Juan Dark StoreSOC 11,San Juan Dark Store,SOC 11,GMA,SOL,GMA SOL,,59,7,7,8,15,30,11,,59,2,2,2,2,3,2,,9,9,10,17,33,13
 1,IM-WarehouseSP Concepcion Hub,IM-Warehouse,SP Concepcion Hub,GMA,SOL,GMA SOL,,39,5,5,6,10,20,7,,39,,,,,,,,5,5,6,10,20,7
 1,SP Concepcion HubSOC 5 Parking,SP Concepcion Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,39,5,5,6,10,20,7,,39,2,2,2,2,3,2,,7,7,8,12,23,9
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,San Juan HubBustos Hub,San Juan Hub,Bustos Hub,GMA,NOL,GMA NOL,,47,6,6,7,12,24,9,,47,,,,,,,,6,6,7,12,24,9
+1,Bustos HubSan Fernando-Dolores Hub,Bustos Hub,San Fernando-Dolores Hub,LUZ,NOL,FAR NOL,,41,5,5,6,10,21,7,,41,,,,,,,,5,5,6,10,21,7
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
