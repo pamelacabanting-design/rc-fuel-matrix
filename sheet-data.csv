@@ -6685,8 +6685,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Navotas HubDaang Hari Hub,Navotas Hub,Daang Hari Hub,GMA,SOL,GMA SOL,,36,5,5,5,9,18,7,,36,,,,,,,,5,5,5,9,18,7
 1,Calabuso HubOP Malaban Binan Hub,Calabuso Hub,OP Malaban Binan Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Bacolor HubSta Maria Hub,Bacolor Hub,Sta Maria Hub,GMA,NOL,GMA NOL,,56,7,7,8,14,28,10,,56,,,,,,,,7,7,8,14,28,10
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Tunasan HubOP Landayan San Pedro Hub,Tunasan Hub,OP Landayan San Pedro Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,Castillejos HubAbra-Bucay Hub,Castillejos Hub,Abra-Bucay Hub,LUZ,NOL,FAR NOL,,414,52,52,59,104,207,75,,414,,,,,,,,52,52,59,104,207,75
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
