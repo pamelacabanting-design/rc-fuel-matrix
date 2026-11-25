@@ -6673,7 +6673,32 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,M Santos HubSOC 5 Parking,M Santos Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,57,7,7,8,14,29,10,,57,2,2,2,2,3,2,,9,9,10,16,32,12
 1,Malabon HubBagumbong Hub,Malabon Hub,Bagumbong Hub,MM,NCR,MM,,19,2,2,3,5,10,3,,19,,,,,,,,2,2,3,5,10,3
 1,Balibago HubBay Hub,Balibago Hub,Bay Hub,GMA,SOL,GMA SOL,,31,4,4,4,8,16,6,,31,,,,,,,,4,4,4,8,16,6
-1,Bay Hub,Bay Hub,,,,,,#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),,#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),,,,,,,,#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.)
+1,Bay HubTanay Hub,Bay Hub,Tanay Hub,GMA,NCR,MM/GMA,,75,9,9,11,19,38,14,,75,,,,,,,,9,9,11,19,38,14
+1,Tanay HubBaras Hub,Tanay Hub,Baras Hub,GMA,NCR,MM/GMA,,14,2,2,2,4,7,3,,14,,,,,,,,2,2,2,4,7,3
+1,Baras HubBinangonan Hub,Baras Hub,Binangonan Hub,GMA,NCR,MM/GMA,,25,3,3,4,6,13,5,,25,,,,,,,,3,3,4,6,13,5
+1,Binangonan HubSOC 8 Parking,Binangonan Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,53,7,7,8,13,27,10,,53,2,2,2,2,3,2,,9,9,10,15,30,12
+1,Calumpit HubSOC 8 Parking,Calumpit Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,94,12,12,13,24,47,17,,94,2,2,2,2,3,2,,14,14,15,26,50,19
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
