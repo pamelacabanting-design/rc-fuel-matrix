@@ -6679,10 +6679,10 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Binangonan HubSOC 8 Parking,Binangonan Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,53,7,7,8,13,27,10,,53,2,2,2,2,3,2,,9,9,10,15,30,12
 1,Calumpit HubSOC 8 Parking,Calumpit Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,94,12,12,13,24,47,17,,94,2,2,2,2,3,2,,14,14,15,26,50,19
 1,MFM TipasMFM Plaridel,MFM Tipas,MFM Plaridel,GMA,NOL,GMA NOL,,50,6,6,7,13,25,9,,50,,,,,,,,6,6,7,13,25,9
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SOC 8 ParkingBustos Hub,SOC 8 Parking,Bustos Hub,GMA,NOL,GMA NOL,,93,12,12,13,23,47,17,,93,2,2,2,2,3,2,,14,14,15,25,50,19
+1,Bocaue HubPlaridel Hub,Bocaue Hub,Plaridel Hub,GMA,NOL,GMA NOL,,9,1,1,1,2,5,2,,9,,,,,,,,1,1,1,2,5,2
+1,Daang Hari HubSOC 6 Parking,Daang Hari Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
+1,Navotas HubDaang Hari Hub,Navotas Hub,Daang Hari Hub,GMA,SOL,GMA SOL,,36,5,5,5,9,18,7,,36,,,,,,,,5,5,5,9,18,7
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
