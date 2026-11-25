@@ -6687,8 +6687,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Bacolor HubSta Maria Hub,Bacolor Hub,Sta Maria Hub,GMA,NOL,GMA NOL,,56,7,7,8,14,28,10,,56,,,,,,,,7,7,8,14,28,10
 1,Tunasan HubOP Landayan San Pedro Hub,Tunasan Hub,OP Landayan San Pedro Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Castillejos HubAbra-Bucay Hub,Castillejos Hub,Abra-Bucay Hub,LUZ,NOL,FAR NOL,,414,52,52,59,104,207,75,,414,,,,,,,,52,52,59,104,207,75
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SOC 11Bagong Barrio Hub,SOC 11,Bagong Barrio Hub,MM,NCR,MM,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
+1,Bagong Barrio HubCaloocan Hub,Bagong Barrio Hub,Caloocan Hub,MM,NCR,MM,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
