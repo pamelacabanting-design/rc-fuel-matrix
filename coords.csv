@@ -183,7 +183,7 @@ Calabuso Hub,SOL,AD-465-CLS-,LM Node,GMA,"Unit 2404 Warehouse Corporate Park, Br
 Calamba Hub,SOL,AD-018-CLM-,LM Node,GMA,"Narional Highway, Brgy. Parian, Calmba City, Laguna",119,119,,14.21173,121.15345
 Calapan Hub,SOL,C-019-CAL-,LM Node,LUZ,"Stong Nautical Hiway, Barangay Masipit, Calapan City, Oriental Mindoro",384,384,,13.383749,121.16155
 Calape Hub,VIS,F-243-CPE-,LM Node,VIS,"Bgry. Abucayan Norte, Calape, Bohol",1925,1925,,9.910186,123.916958
-Calatagan Hub,SOL,W-777-CLH-,LM Node,LUZ,"Lucsuhin, Calatagan, Batangas",6795,6795,,13.883107,120.640801
+Calatagan Hub,SOL,C-777-CLH-,LM Node,LUZ,"Lucsuhin, Calatagan, Batangas",6795,6795,,13.883107,120.640801
 Calatrava Hub,VIS,D-719-CLV-,LM Node,VIS,National Highway Brgy. Lo-ok Calatrava Negros Occidental,6200,6200,,10.59222,123.479982
 Calbayog DC,VIS,CYG DC-08,RC Node,VIS,Brgy Rizal 1 Diversion road Calbayog City,2684,2684,,12.072907,124.616268
 Calbayog Hub,VIS,L-079-CYG-,LM Node,VIS,Brgy Rizal 1 Diversion road Calbayog City,767,767,,12.073009,124.616248
@@ -1718,7 +1718,7 @@ PHS2DS,SOL,PHS2DS,WH Node,GMA,"Unit C, Lot 3, Phase, Barangay, Rizal Technopark 
 PHS3DS,SOL,PHS3DS,WH Node,GMA,"2 Governor's Dr, Brgy. Sabang, Naic, Cavite,Naic,Cavite,South Luzon,PH",6211,6211,,14.310787,120.798647
 PHS4DS,SOL,PHS4DS,WH Node,GMA,"376 national road tagpos binangonan rizal,Binangonan,Rizal,South Luzon,PH",6638,6638,,14.508205,121.166808
 PHS5DS,SOL,PHS5DS,WH Node,GMA,"Daang Bukal, Baragay Tandang Kutyo, Tanay, Rizal,Tanay,Rizal,South Luzon,PH",6344,6344,,14.506817,121.290792
-PHS6DS,,PHS6DS,WH Node,,"Twin Win Steep Corp. Compound Warehosue 3 and 4 National Highway Barangay Maitim Bay Laguna,Bay,Laguna,South Luzon,PH",6653,6653,,14.17654,121.27139
+PHS6DS,SOL,PHS6DS,WH Node,GMA,"Twin Win Steep Corp. Compound Warehosue 3 and 4 National Highway Barangay Maitim Bay Laguna,Bay,Laguna,South Luzon,PH",6653,6653,,14.17654,121.27139
 PHS8DS,SOL,PHS8DS,WH Node,GMA,"Lot 15 Meridian Industrial Complex, Brgy. Macabling, Santo Rosa, Laguna,Santa Rosa City,Laguna,South Luzon,PH",6604,6604,,14.296678,121.094144
 PHS9DS,SOL,PHS9DS,WH Node,GMA,"Sitio Kapatagan, Baras, Rizal,Baras,Rizal,South Luzon,PH",6343,6343,,14.596067,121.264705
 PHSIP,SOL,PHSIP			,SC Node,GMA,"B1 L2, Bicutan Drive, Batino Rd. Batino, Calamba, Laguna 4027",4950,4950,,14.206537,121.130275
@@ -1839,7 +1839,7 @@ SOC 8 Parking,SOL,SOC8-Parking,SC Node,GMA,"Sitio Latian, Mapagong Road, Canluba
 SOC 9,NOL,SOC 9,SC Node,GMA,"Block 16 MEGA LAND INDUSTRIAL PARK , Plaridel bypass road, Brgy. Camachilihan, Bustos Bulacan, Philippines",5830,5830,,14.915136,120.921739
 SOC 9 Parking,NOL,SOC 9-Parking,SC Node,GMA,"Block 16 MEGA LAND INDUSTRIAL PARK , Plaridel bypass road, Brgy. Camachilihan, Bustos Bulacan, Philippines",6224,6224,,14.915136,120.921739
 SOC BCP,SOL,SOC BCP,SC Node,GMA,"Summertree - Light Industry & Science Park 1, Ion Street, corner East Road, Cabuyao, 4025 Laguna",5131,5131,,14.236384,121.111315
-SP Concepcion Hub,SOL,W-774-SPH-,LM Node,GMA,"Tropical Park Hotel (Compound), Purok 1, Brgy. San Pedro, San Pablo, Laguna",6792,6792,,14.089641,121.338651
+SP Concepcion Hub,SOL,AD-774-SPH-,LM Node,GMA,"Tropical Park Hotel (Compound), Purok 1, Brgy. San Pedro, San Pablo, Laguna",6792,6792,,14.089641,121.338651
 SP Del Remedio Hub,SOL,AD-662-SDR-,LM Node,GMA,"Amante Street, Del Remedio, San Pablo City, Laguna",5502,5502,,14.083958,121.312081
 SPX Batino Warehouse,SOL,Batino WHS,WH Node,GMA,"Block 2, Lots 2,3,10 & 11, Honest St cor. Determined Street, Calamba Premiere International Park (CPIP), Batino, Calamba, Laguna, Philippines 4027 Calamba City Batino Laguna South Luzon, 4027, PH",4,4,,14.194036,121.129883
 SPX WH Bacolod,VIS,WH Bacolod,WH Node,VIS,"Murcia, Negros Occidental",5023,5023,,10.613392,123.028724
