@@ -6684,7 +6684,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Daang Hari HubSOC 6 Parking,Daang Hari Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
 1,Navotas HubDaang Hari Hub,Navotas Hub,Daang Hari Hub,GMA,SOL,GMA SOL,,36,5,5,5,9,18,7,,36,,,,,,,,5,5,5,9,18,7
 1,Calabuso HubOP Malaban Binan Hub,Calabuso Hub,OP Malaban Binan Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Bacolor HubSta Maria Hub,Bacolor Hub,Sta Maria Hub,GMA,NOL,GMA NOL,,56,7,7,8,14,28,10,,56,,,,,,,,7,7,8,14,28,10
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
