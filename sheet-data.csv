@@ -6671,9 +6671,9 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Noveleta HubOP Magallanes Cavite Hub,Noveleta Hub,OP Magallanes Cavite Hub,GMA,SOL,GMA SOL,,40,5,5,6,10,20,7,,40,,,,,,,,5,5,6,10,20,7
 1,IM-WarehouseM Santos Hub,IM-Warehouse,M Santos Hub,GMA,SOL,GMA SOL,,57,7,7,8,14,29,10,,57,,,,,,,,7,7,8,14,29,10
 1,M Santos HubSOC 5 Parking,M Santos Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,57,7,7,8,14,29,10,,57,2,2,2,2,3,2,,9,9,10,16,32,12
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Malabon HubBagumbong Hub,Malabon Hub,Bagumbong Hub,MM,NCR,MM,,19,2,2,3,5,10,3,,19,,,,,,,,2,2,3,5,10,3
+1,Balibago HubBay Hub,Balibago Hub,Bay Hub,GMA,SOL,GMA SOL,,31,4,4,4,8,16,6,,31,,,,,,,,4,4,4,8,16,6
+1,Bay Hub,Bay Hub,,,,,,#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),,#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),,,,,,,,#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.),#N/A (Did not find value 'Bay Hub' in XLOOKUP evaluation.)
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
