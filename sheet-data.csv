@@ -6699,11 +6699,11 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 8 ParkingMambog Hub,SOC 8 Parking,Mambog Hub,GMA,SOL,GMA SOL,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
 1,Mambog HubSOC 8 Parking,Mambog Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
 1,Sariaya HubCalumpang Hub,Sariaya Hub,Calumpang Hub,LUZ,SOL,FAR SOL,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SP Del Remedio HubSP Concepcion Hub,SP Del Remedio Hub,SP Concepcion Hub,GMA,SOL,GMA SOL,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
+1,San Antonio-Zambales HubSOC 9 Parking,San Antonio-Zambales Hub,SOC 9 Parking,GMA,NOL,GMA NOL,,128,16,16,18,32,64,23,,128,2,2,2,2,3,2,,18,18,20,34,67,25
+1,OP Santa Rosa Laguna HubSOC 11,OP Santa Rosa Laguna Hub,SOC 11,GMA,SOL,GMA SOL,,15,2,2,2,4,8,3,,15,2,2,2,2,3,2,,4,4,4,6,11,5
+1,Pasong Tamo HubOP Sandiganbayan Quezon City Hub,Pasong Tamo Hub,OP Sandiganbayan Quezon City Hub,MM,NCR,MM,,10,1,1,1,3,5,2,,10,,,,,,,,1,1,1,3,5,2
+1,San Rafael HubBaliwag-San Roque Hub,San Rafael Hub,Baliwag-San Roque Hub,GMA,NOL,GMA NOL,,2,0,0,0,1,1,0,,2,,,,,,,,0,0,0,1,1,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 1,IISIIS,IIS,IIS,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
@@ -6865,7 +6865,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,San Agustin HubRomblon Hub,San Agustin Hub,Romblon Hub,LUZ,SOL,FAR SOL,,17,2,2,2,4,9,3,,17,,,,,,,,2,2,2,4,9,3
 1,Romblon HubMFM Laguna,Romblon Hub,MFM Laguna,GMA,SOL,GMA SOL,,277,35,35,40,69,139,50,,277,,,,,,,,35,35,40,69,139,50
 1,Gasan HubMFM Laguna,Gasan Hub,MFM Laguna,GMA,SOL,GMA SOL,,174,22,22,25,44,87,32,,174,,,,,,,,22,22,25,44,87,32
-1,San Rafael HubBaliwag-San Roque Hub,San Rafael Hub,Baliwag-San Roque Hub,GMA,NOL,GMA NOL,,670,84,84,96,168,335,122,,670,,,,,,,,84,84,96,168,335,122
+,,,,,,,,670,84,84,96,168,335,122,,670,,,,,,,,84,84,96,168,335,122
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
