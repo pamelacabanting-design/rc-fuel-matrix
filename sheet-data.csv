@@ -6693,9 +6693,9 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Calatagan HubSOC 5 Parking,Calatagan Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,104,13,13,15,26,52,19,,104,2,2,2,2,3,2,,15,15,17,28,55,21
 1,IM-WarehouseDaang Hari Hub,IM-Warehouse,Daang Hari Hub,GMA,SOL,GMA SOL,,31,4,4,4,8,16,6,,31,,,,,,,,4,4,4,8,16,6
 1,Daang Hari HubSOC 5 Parking,Daang Hari Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,31,4,4,4,8,16,6,,31,2,2,2,2,3,2,,6,6,6,10,19,8
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Castillejos HubSan Antonio-Zambales Hub,Castillejos Hub,San Antonio-Zambales Hub,LUZ,NOL,FAR NOL,,13,2,2,2,3,7,2,,13,,,,,,,,2,2,2,3,7,2
+1,San Antonio-Zambales HubSOC 9,San Antonio-Zambales Hub,SOC 9,GMA,NOL,GMA NOL,,128,16,16,18,32,64,23,,128,2,2,2,2,3,2,,18,18,20,34,67,25
+1,Binan HubMarket-Santa Rosa Hub,Binan Hub,Market-Santa Rosa Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
