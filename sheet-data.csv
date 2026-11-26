@@ -6698,7 +6698,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Binan HubMarket-Santa Rosa Hub,Binan Hub,Market-Santa Rosa Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,SOC 8 ParkingMambog Hub,SOC 8 Parking,Mambog Hub,GMA,SOL,GMA SOL,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
 1,Mambog HubSOC 8 Parking,Mambog Hub,SOC 8 Parking,GMA,SOL,GMA SOL,,32,4,4,5,8,16,6,,32,2,2,2,2,3,2,,6,6,7,10,19,8
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Sariaya HubCalumpang Hub,Sariaya Hub,Calumpang Hub,LUZ,SOL,FAR SOL,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
