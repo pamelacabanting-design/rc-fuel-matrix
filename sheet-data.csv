@@ -6689,8 +6689,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Castillejos HubAbra-Bucay Hub,Castillejos Hub,Abra-Bucay Hub,LUZ,NOL,FAR NOL,,414,52,52,59,104,207,75,,414,,,,,,,,52,52,59,104,207,75
 1,SOC 11Bagong Barrio Hub,SOC 11,Bagong Barrio Hub,MM,NCR,MM,,60,8,8,9,15,30,11,,60,2,2,2,2,3,2,,10,10,11,17,33,13
 1,Bagong Barrio HubCaloocan Hub,Bagong Barrio Hub,Caloocan Hub,MM,NCR,MM,,7,1,1,1,2,4,1,,7,,,,,,,,1,1,1,2,4,1
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,IM-WarehouseCalatagan Hub,IM-Warehouse,Calatagan Hub,LUZ,SOL,FAR SOL,,104,13,13,15,26,52,19,,104,,,,,,,,13,13,15,26,52,19
+1,Calatagan HubSOC 5 Parking,Calatagan Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,104,13,13,15,26,52,19,,104,2,2,2,2,3,2,,15,15,17,28,55,21
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
