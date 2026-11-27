@@ -6730,6 +6730,17 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Salitran HubZone-Dasma Hub,Salitran Hub,Zone-Dasma Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,Zone-Dasma HubSOC 5 Parking,Zone-Dasma Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,35,4,4,5,9,18,6,,35,2,2,2,2,3,2,,6,6,7,11,21,8
 1,Tejero HubSOC 8,Tejero Hub,SOC 8,GMA,SOL,GMA SOL,,50,6,6,7,13,25,9,,50,2,2,2,2,3,2,,8,8,9,15,28,11
+1,Taytay HubDarangan Hub,Taytay Hub,Darangan Hub,GMA,SOL,GMA SOL,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
+1,GMA HubUpper GMA Hub,GMA Hub,Upper GMA Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,Baytown HubHighway 2000 Hub,Baytown Hub,Highway 2000 Hub,GMA,SOL,GMA SOL,,6,1,1,1,2,3,1,,6,,,,,,,,1,1,1,2,3,1
+1,Highway 2000 HubSOC 5,Highway 2000 Hub,SOC 5,GMA,SOL,GMA SOL,,49,6,6,7,12,25,9,,49,2,2,2,2,3,2,,8,8,9,14,28,11
+1,Binangonan HubM Santos Hub,Binangonan Hub,M Santos Hub,GMA,SOL,GMA SOL,,15,2,2,2,4,8,3,,15,,,,,,,,2,2,2,4,8,3
+1,M Santos HubSOC 5,M Santos Hub,SOC 5,GMA,SOL,GMA SOL,,57,7,7,8,14,29,10,,57,2,2,2,2,3,2,,9,9,10,16,32,12
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
