@@ -6721,15 +6721,15 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Novaliches HubSOC 6 Parking,Novaliches Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,10,1,1,1,3,5,2,,10,2,2,2,2,3,2,,3,3,3,5,8,4
 1,SOC 6Pasong Tamo Hub,SOC 6,Pasong Tamo Hub,MM,NCR,MM,,20,3,3,3,5,10,4,,20,2,2,2,2,3,2,,5,5,5,7,13,6
 1,Pasong Tamo HubSOC 6 Parking,Pasong Tamo Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,19,2,2,3,5,10,3,,19,2,2,2,2,3,2,,4,4,5,7,13,5
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SOC 5Darangan Hub,SOC 5,Darangan Hub,GMA,SOL,GMA SOL,,58,7,7,8,15,29,11,,58,2,2,2,2,3,2,,9,9,10,17,32,13
+1,Darangan HubSOC 5 Parking,Darangan Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,59,7,7,8,15,30,11,,59,2,2,2,2,3,2,,9,9,10,17,33,13
+1,Congressional HubDona Felicidad Hub,Congressional Hub,Dona Felicidad Hub,MM,NCR,MM,,11,1,1,2,3,6,2,,11,,,,,,,,1,1,2,3,6,2
+1,Dona Felicidad HubSOC 6 Parking,Dona Felicidad Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,23,3,3,3,6,12,4,,23,2,2,2,2,3,2,,5,5,5,8,15,6
+1,Lucena HubTayabas Hub,Lucena Hub,Tayabas Hub,LUZ,SOL,FAR SOL,,10,1,1,1,3,5,2,,10,,,,,,,,1,1,1,3,5,2
+1,Tayabas HubSOC 5 Parking,Tayabas Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,88,11,11,13,22,44,16,,88,2,2,2,2,3,2,,13,13,15,24,47,18
+1,Salitran HubZone-Dasma Hub,Salitran Hub,Zone-Dasma Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,Zone-Dasma HubSOC 5 Parking,Zone-Dasma Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,35,4,4,5,9,18,6,,35,2,2,2,2,3,2,,6,6,7,11,21,8
+1,Tejero HubSOC 8,Tejero Hub,SOC 8,GMA,SOL,GMA SOL,,50,6,6,7,13,25,9,,50,2,2,2,2,3,2,,8,8,9,15,28,11
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0

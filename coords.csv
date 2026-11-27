@@ -164,7 +164,7 @@ CDO DC,MIN,CDO DC-08,RC Node,MIN,"KM2 National Highway, Kauswagan, Cagayan de Or
 CDO Divisoria Hub,MIN,H-562-CDS-,LM Node,MIN,"Gomez St., Brgy 7, Cagayan de Oro City",4688,4688,,8.479435,124.642108
 CDO Gusa Hub,MIN,H-527-CDG-,LM Node,MIN,"JR Borja Ext., Gusa, Cagayan de Oro City",4542,4542,,8.474646,124.675497
 CDO Hub,MIN,H-098-CDO-,LM Node,MIN,"Zone 8, Regatta Blvd, Velmiro Subdivision, Cagayan de Oro City",62,62,,8.445469,124.617627
-CDO Kauswagan Hub,MIN,H-383-KWN-,LM Node,MIN,"C-ONE Trading Corporation, Zone 1, Rodolfo N. Pelaez St., Kauswagan, Cagayan de Oro, Philippines",3124,3124,,8.50036,124.640977
+CDO Kauswagan Hub,MIN,H-383-KWN-,LM Node,MIN,Barangay Puntdo Cagayan de Oro City,3124,3124,,8.492009,124.655537
 CDO Macasandig Hub,MIN,H-701-MAC-,LM Node,MIN,"Woodland Heights, S Diversion Rd (Macasandig-Taguanao), Cagayan De Oro City, Misamis Oriental",6013,6013,,8.446538,124.646633
 CDO Puntod Hub,MIN,H-385-PTD-,LM Node,MIN,"Gaabucayan St., Puntod, Cagayan de Oro City",3126,3126,,8.491995,124.65563
 Cabadbaran Hub,MIN,M-227-CBC-,LM Node,MIN," Brgy., Poblacion 4. Curato St. Cabadbaran City Agusan Del Norte",1854,1854,,9.119756,125.532234
@@ -406,6 +406,7 @@ Diamantina Cabatuan Hub,NOL,P-732-DCH-,LM Node,LUZ,"villa visaya street purok 2,
 Digos Aurora Hub,MIN,I-704-DIG-,LM Node,MIN,"Aurora 3rd Street, Brgy San Jose, Digos City, Davao Del Sur",6016,6016,,6.736883,125.358667
 Digos Hub,MIN,I-101-DGS-,LM Node,MIN,"Davao-Cotabato Road, San Agustin, Digos City",64,64,,6.768275,125.318913
 Dimasalang Hub,NCR,W-662-DMS-,LM Node,MM,"2630 Dimasalang St., Pasay City",5506,5506,,14.54141,121.0038
+Dinalupihan Hub,NOL,AE-781-DNL-,LM Node,LUZ,"San Ramon, Dinalupihan, Bataan",6814,6814,,14.86742,120.46242
 Dipolog DC,MIN,DPG DC-08,RC Node,MIN,"Purok Bougainvilla, Mibang, Brgy Sta. Filomena, Dipolog City",3520,3520,,8.565443,123.347425
 Dipolog Hub,MIN,S-102-DPG-,LM Node,MIN,"Barangay Sta. Felomina, Dipolog City, Zamboanga Del Norte",378,378,,8.565139,123.346667
 Dipolog Minaog Hub,MIN,S-678-DPL-,LM Node,MIN,"Dipolog-Oroquieta rd, National Highway, Minaog, Dipolog City",5763,5763,,8.603439,123.347815
@@ -467,6 +468,7 @@ Highway 2000 Hub,SOL,V-760-H2K-,LM Node,GMA,"888 Industrial Mega City, Block 5 H
 Hilongos Hub,VIS,G-166-HIL-,LM Node,VIS,"Sta. Maria Street, Barangay Central, Hilongos, Leyte",1465,1465,,10.366991,124.758207
 Himamaylan Hub,VIS,D-571-HIM-,LM Node,VIS,Barangay 1 Poblacion Himamaylan City Negros Occ.,4727,4727,,10.098197,122.871171
 Hinigaran Hub,VIS,D-189-HIN-,LM Node,VIS,"Pueblo San Roque Subd., Brgy Gargato, Hinigaran Negros Occidental",1629,1629,,10.279668,122.851993
+Hinoba-an Hub,VIS,D-780-HBN-,LM Node,VIS,"Zone 2, Barangay Bacuyangan, Hinobaan, Negros Occidental",6813,6813,,9.63081,122.469325
 Holy Spirit Hub,NCR,AC-469-HST-,LM Node,MM,11 Dona Isidora Holy Spirit Quezon City,3622,3622,,14.6824,121.0779
 Homestead Bakakeng Hub,NOL,O-748-HBH-,LM Node,LUZ,"Camp 7, Homestead, Camp 7, Baguio City",6656,6656,,16.39178,120.59969
 Hugo Perez Hub,SOL,C-681-HPZ-,LM Node,GMA,Brgy. Hugo Perez,5826,5826,,14.276817,120.891326
@@ -512,7 +514,7 @@ Kapangan Hub,NOL,O-537-KPG-,LM Node,LUZ,"Poblacion Central, Kapangan, Benguet",4
 Kidapawan Hub,MIN,I-106-KID-,LM Node,MIN,"Purok 5A-Pinantao, Pangaoan Magpet-Kidapawan Road, Brgy. Sudapin Kidapawan City",490,490,,7.041637,125.098366
 Kimba-Talisay Cebu Hub,VIS,F-697-KTC-,LM Node,VIS,"Brgy. Kimba, City of Talisay, Cebu",5999,5999,,10.255242,123.852476
 Koronadal GPS Hub,MIN,X-692-GPS-,LM Node,MIN,"F. Antipolo St., Zone I, Brgy Gen. Paulino Santos, Koranadal City",5875,5875,,6.501355,124.847851
-Koronadal Hub,MIN,X-107-KOR-,LM Node,MIN,"F. Antipolo St. Brgy Gen. Paulino Santos, Koranadal City",219,219,,6.501271,124.847876
+Koronadal Hub,MIN,X-107-KOR-,LM Node,MIN,"F. Antipolo St. Brgy Gen. Paulino Santos, Koranadal City",219,219,,6.50123,124.847876
 LM Hub Ozamis,MIN,OZM HUB,LM Node,MIN,"Carangan, Molicay rd., Ozamis City, Misamis Occidental",627,627,,8.182918,123.863574
 La Carlota Hub,VIS,D-406-LCL-,LM Node,VIS,"Valois St. Brgy. II Poblacion, La Carlota City",3228,3228,,10.427884,122.921058
 La Castellana Hub,VIS,D-209-LCT-,LM Node,VIS,Buena Park Subd. Barangay Robles La Castellana,1740,1740,,10.304827,123.022103
@@ -1103,6 +1105,7 @@ Mandurriao Hub,VIS,E-394-MRR-,LM Node,VIS,"Guzman St San Miguel, National Road, 
 Mangaldan Hub,NOL,AE-226-MLD-,LM Node,LUZ,"National Highway, Malabago, Mangaldan Pangasinan",1848,1848,,16.056476,120.391358
 Mangatarem Hub,NOL,B-353-MTM-,LM Node,LUZ,"Barangay Arellano, Poblacion, Mangatarem, Pangasinan",2825,2825,,15.788498,120.29102
 Manila LM Hub,NCR,MNL HUB,LM Node,MM,"1460 Laborest Ext., Brgy 957, Zone 93, Pandacan, Manila",15,15,,14.58631,121.003487
+Mankayan Hub,NOL,B-778-MKY-,LM Node,LUZ,"Aurora Street, Poblacion, Mankayan, Benguet",6811,6811,,16.858726,120.792044
 Mansilingan Hub,VIS,D-731-MSN-,LM Node,VIS,"Hernaez Avenue, Mansilingan, Bacolod City, Negros Occidental",6339,6339,,10.640444,122.969506
 Manuyo Uno Hub,NCR,AD-339-MNY-,LM Node,MM,"Villa Eusebia, Quirino Highway, Brgy. Elias Aldana, Las Piñas City",2746,2746,,14.475461,120.976879
 Mapaya Hub,SOL,C-740-MPH-,LM Node,LUZ,"Mapaya 1, San Jose, Occidental Mindoro",6607,6607,,12.358253,121.122513
@@ -1113,6 +1116,7 @@ Marcelo Green Hub,NCR,AD-519-MRG-,LM Node,MM,"Armela Compound Rd, Marcelo Green,
 Maribojoc Hub,VIS,F-764-MRJ-,LM Node,VIS,"F. Resonable, Brgy. Punsod, Maribojoc, Bohol",6778,6778,,9.742583,123.855634
 Marikina Hub,NCR,AD-005-MKN-,LM Node,MM,"Manila Bay Spinning Mills Inc. Compound 107 Lopez Jaena St. Tanong, Marikina",19,19,,14.636181,121.089359
 Marilao Hub,NOL,B-056-MRL-,LM Node,GMA,Guillermo Compound Sta Rosa Uno Marilao Bulacan,520,520,,14.771437,120.965119
+Marilao-Abangan Hub,NOL,B-779-MAH-,LM Node,GMA,"Sandico St. Abangan Sur, Marilao Bulacan",6812,6812,,14.760918,120.944957
 Marinduque Hub,SOL,C-185-MDQ-,LM Node,LUZ,"Sitio Highway Brgy. Landy, Sta. Cruz Marinduque 4902",1589,1589,,13.491173,121.99825
 Mariveles Hub,NOL,AE-057-MAR-,LM Node,LUZ,"Maharlika Hi-way #4 , Mt. View Freeport, Alas-asin, Mariveles, Bataan			",34,34,,14.458483,120.549799
 Market-Santa Rosa Hub,SOL,AD-753-MSR-,LM Node,GMA,"Tatlong Hari Street Brgy. Market Area, City of Santa Rosa, 4026 Laguna",6681,6681,,14.3234,121.111726
@@ -1584,7 +1588,7 @@ OP Wangan Davao City Hub,MIN,I-439-DCN-opr-,LM Node,MIN,"Purok 3, Barangay Wanga
 OP Wao Lanao Del Sur Hub,MIN,H-229-MRM-WAO-opr-,LM Node,MIN,"J.P. Laurel Street Purok 5 Barangay Eastern Wa-o, Lanao del Sur",5505,5505,,7.638,124.728
 OP Yapak Aklan Hub,VIS,E-452-MLK-opr-,LM Node,VIS,"2nd Floor AMC Space Rental near Central Mall Diniwid Balabag, Malay Aklan",4734,4734,,11.979198,121.919278
 OP Zamboanga City Hub,MIN,AA-690-ZRC-ZB1-opr-,LM Node,MIN,"Yubenco Mall, Calle San Pedro, Ayala, Zamboanga City",3139,3139,,6.956549,121.950625
-OP Zamboanga City Hub 2,MIN,AA-690-ZRC-ZB2-opr-,LM Node,MIN,"Zone 6, MCLL Highway Culianan, Zamboanga City",2646,2646,,6.986448,122.154449
+OP Zamboanga City Hub 2,MIN,AA-690-ZRC-ZB2-opr-,LM Node,MIN,"Bypass Road, Zone 4-B, Culianan, Zamboanga City",2646,2646,,6.979243,122.138128
 OP Zamboanga City Hub 3,MIN,AA-690-ZRC-opr-,LM Node,MIN,W462+545 Zamboanga,3359,3359,,6.910385,122.100361
 OP Zamboanga City Hub 4,MIN,AA-690-ZRC-opr-,LM Node,MIN,"Maria Clara L., Lobregat Highway, Zamboanga, Zamboanga Del Sur",4522,4522,,7.353185,122.282625
 OP Zamboanguita Negros Oriental Hub,VIS,D-718-BCG-ZMO-opr-,LM Node,VIS,National highway Guensuan poblacion Zamboanguita Negros Oriental,4633,4633,,9.108433,123.200379
