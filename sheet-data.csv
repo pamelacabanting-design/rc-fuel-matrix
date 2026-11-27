@@ -6715,7 +6715,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 9 ParkingMangaldan Hub,SOC 9 Parking,Mangaldan Hub,LUZ,NOL,FAR NOL,,187,23,23,27,47,94,34,,187,2,2,2,2,3,2,,25,25,29,49,97,36
 1,SOC 5 ParkingMarcelo Green Dark Store,SOC 5 Parking,Marcelo Green Dark Store,MM,NCR,MM,,33,4,4,5,8,17,6,,33,2,2,2,2,3,2,,6,6,7,10,20,8
 1,Marcelo Green Dark StoreDasa Hub,Marcelo Green Dark Store,Dasa Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Dasa HubMarcelo Green Dark Store,Dasa Hub,Marcelo Green Dark Store,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
