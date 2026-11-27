@@ -6706,6 +6706,16 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,Santa Rosa HubOP Santa Rosa Laguna Hub,Santa Rosa Hub,OP Santa Rosa Laguna Hub,GMA,SOL,GMA SOL,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
 1,OP Santa Rosa Laguna HubSOC 11,OP Santa Rosa Laguna Hub,SOC 11,GMA,SOL,GMA SOL,,15,2,2,2,4,8,3,,15,2,2,2,2,3,2,,4,4,4,6,11,5
 1,Upper Marikina HubRedgold Dark Store,Upper Marikina Hub,Redgold Dark Store,GMA,SOL,GMA SOL,,8,1,1,1,2,4,1,,8,,,,,,,,1,1,1,2,4,1
+1,OP Santa Rosa Laguna HubSOC 5 Parking,OP Santa Rosa Laguna Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,15,2,2,2,4,8,3,,15,2,2,2,2,3,2,,4,4,4,6,11,5
+1,Palanca HubOP University Belt Manila Hub,Palanca Hub,OP University Belt Manila Hub,MM,NCR,MM,,4,1,1,1,1,2,1,,4,,,,,,,,1,1,1,1,2,1
+1,OP University Belt Manila HubSOC 5 Parking,OP University Belt Manila Hub,SOC 5 Parking,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,2,2,2,2,3,2,,8,8,9,15,29,11
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
