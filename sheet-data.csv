@@ -6720,7 +6720,7 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,North East Caloocan HubNovaliches Hub,North East Caloocan Hub,Novaliches Hub,MM,NCR,MM,,2,0,0,0,1,1,0,,2,,,,,,,,0,0,0,1,1,0
 1,Novaliches HubSOC 6 Parking,Novaliches Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,10,1,1,1,3,5,2,,10,2,2,2,2,3,2,,3,3,3,5,8,4
 1,SOC 6Pasong Tamo Hub,SOC 6,Pasong Tamo Hub,MM,NCR,MM,,20,3,3,3,5,10,4,,20,2,2,2,2,3,2,,5,5,5,7,13,6
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,Pasong Tamo HubSOC 6 Parking,Pasong Tamo Hub,SOC 6 Parking,GMA,NOL,GMA NOL,,19,2,2,3,5,10,3,,19,2,2,2,2,3,2,,4,4,5,7,13,5
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
