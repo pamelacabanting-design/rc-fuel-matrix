@@ -6748,8 +6748,8 @@ Count,Trip Code,Origin,Destination,region_pnl,region_gen,region_internal,,KM dis
 1,SOC 6Baliwag-San Roque Hub,SOC 6,Baliwag-San Roque Hub,GMA,NOL,GMA NOL,,37,5,5,5,9,19,7,,37,2,2,2,2,3,2,,7,7,7,11,22,9
 1,SOC 11SP Concepcion Hub,SOC 11,SP Concepcion Hub,GMA,SOL,GMA SOL,,40,5,5,6,10,20,7,,40,2,2,2,2,3,2,,7,7,8,12,23,9
 1,SOC 8Amang Rodriguez Hub,SOC 8,Amang Rodriguez Hub,MM,NCR,MM,,53,7,7,8,13,27,10,,53,2,2,2,2,3,2,,9,9,10,15,30,12
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
-,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
+1,SOC 11Trece Martires Hub,SOC 11,Trece Martires Hub,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,2,2,2,2,3,2,,8,8,9,15,29,11
+1,Trece Martires HubSOC 11,Trece Martires Hub,SOC 11,GMA,SOL,GMA SOL,,51,6,6,7,13,26,9,,51,2,2,2,2,3,2,,8,8,9,15,29,11
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
 ,,,,,,,,,0,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0
